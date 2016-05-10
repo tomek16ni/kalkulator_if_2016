@@ -1,0 +1,1 @@
+Autor: Tomek, firma UEP
