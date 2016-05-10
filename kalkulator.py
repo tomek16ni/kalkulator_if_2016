@@ -1,9 +1,14 @@
-def dodawanie  ():
-	a = int (input())
-	b = int (input())
-	print (a+b)
+def get_info ():
+	print ("To jest program jakiś tam")
 	
-	a= int(input())
-	b= int(input())
+def dodawanie (a,b):
+	return a + b 
 
-	print(dodawanie (a,b))
+get_info():
+
+a= int(input())
+b= int(input())
+print(dodawanie (a,b))
+	
+<<<<<<< HEAD
+	
