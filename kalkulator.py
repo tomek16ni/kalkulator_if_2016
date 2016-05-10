@@ -3,4 +3,7 @@ def dodawanie  ():
 	b = int (input())
 	print (a+b)
 	
-dodawanie ()
+	a= int(input())
+	b= int(input())
+
+	print(dodawanie (a,b))
